@@ -16,7 +16,7 @@ A Fullstack Tours & Travels Web App Using MERN Stack 💫
 
 ## Authors
 
-- [@Shuence](https://www.github.com/shuence) 💫
+- [@Shivam](https://www.github.com/15shivamgit) 💫
 
 ## Badges
 
