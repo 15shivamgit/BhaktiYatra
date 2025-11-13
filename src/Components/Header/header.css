@@ -6,7 +6,9 @@
 }
 
 .logo img {
-  width: 30%;
+  height: 50px;        
+  width: auto;         
+  object-fit: contain;
 }
 
 .menu {

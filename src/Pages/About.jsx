@@ -3,7 +3,7 @@ import { Container, Row, Col } from "reactstrap";
 import Subtitle from "../Shared/Subtitle";
 import '../styles/About.css';
 import worldImg from "../assets/images/world.png"
-import logo1 from "../assets/images/logo1.png"
+import logo1 from "../assets/images/logo.png"
 import Newsletter from "../Shared/Newsletter";
 import Contact from "./Contact";
 

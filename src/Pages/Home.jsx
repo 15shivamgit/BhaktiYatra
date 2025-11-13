@@ -1,9 +1,9 @@
 import React from 'react'
 import "../styles/Home.css"
 import {Container,Row, Col} from 'reactstrap'
-import heroImg from "../assets/images/hero-img01.jpg"
-import heroImg2 from "../assets/images/hero-img02.jpg"
-import heroVideo from "../assets/images/hero-video.mp4"
+import ram from "../assets/images/ram.jpg"
+import radha from "../assets/images/radha.jpg"
+import kedarjii from "../assets/images/kedarjii.mp4"
 import Subtitle from '../Shared/Subtitle'
 import worldImg from "../assets/images/world.png"
 import experienceImage from "../assets/images/experience.png"
@@ -41,17 +41,17 @@ const Home = () => {
           </Col>
           <Col lg="2">
             <div className="hero__img-box">
-              <img src={heroImg} alt="" />
+              <img src={ram} alt="Jay Shree Ram" />
             </div>
           </Col>
           <Col lg="2">
             <div className="hero__img-box video-box mt-4">
-              <video src={heroVideo} alt="" autoPlay loop muted />
+              <video src={kedarjii} alt="" autoPlay loop muted />
             </div>
           </Col>
           <Col lg="2">
             <div className="hero__img-box mt-5">
-              <img src={heroImg2} alt="" />
+              <img src={radha} alt="Prem Mandir" />
             </div>
           </Col>
           <SearchBar/>

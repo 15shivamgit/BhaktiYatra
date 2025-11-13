@@ -55,8 +55,8 @@ const Contact = () => {
           <Col sm={12} md={{ size: 6, offset: 3 }}>
             <Subtitle subtitle={"Contact Us"} />
             <div className="contact-info">
-              <p>Contact No: +1 123-456-7890</p>
-              <p>Email: contact@example.com</p>
+              <p>Contact No: +91 74888-81563</p>
+              <p>Email: 15shiva@gmail.com</p>
             </div>
             {alertVisible && (
               <Alert color={alertType} className="mt-3">
